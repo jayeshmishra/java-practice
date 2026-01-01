@@ -1,0 +1,12 @@
+# Compiled Java output
+bin/
+*.class
+
+# Eclipse metadata
+.project
+.classpath
+.settings/
+
+# OS junk
+.DS_Store
+Thumbs.db
